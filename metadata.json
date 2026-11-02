@@ -1,0 +1,6 @@
+{
+  "name": "Révision QCM",
+  "description": "Application locale de révision et entraînement par QCM avec import PDF/texte, modes Apprentissage, Examen et Rythmé, chronomètre et corrigés détaillés.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
